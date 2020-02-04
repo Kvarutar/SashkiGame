@@ -1,0 +1,10 @@
+﻿  Board.cpp
+  Cell.cpp
+  Game.cpp
+  IO.cpp
+C:\Users\пользователь\source\repos\test\test\IO.cpp(29,9): warning C4101: x1: неиспользованная локальная переменная
+C:\Users\пользователь\source\repos\test\test\IO.cpp(29,13): warning C4101: x2: неиспользованная локальная переменная
+C:\Users\пользователь\source\repos\test\test\IO.cpp(70,22): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
+  Shashki.cpp
+  Создание кода...
+  test.vcxproj -> C:\Users\пользователь\source\repos\test\Debug\test.exe
